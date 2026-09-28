@@ -24,7 +24,7 @@
 </p>
 <h6 align="center">p.s. изучать, чтобы не делать нейрослопные проги :)</h6>
 
-<a href="https://github-stats-extended.vercel.app/api?username=itzmrazotyalin">
+<a href="https://github-stats-extended.vercel.app/api?username=itzmrazotyalin&card_width=300">
   <picture>
     <source
       srcset="https://github-stats-extended.vercel.app/api?username=itzmrazotyalin&theme=dark_github"
@@ -33,7 +33,7 @@
     <img height="200" align="center" src="https://github-stats-extended.vercel.app/api?username=itzmrazotyalin&theme=light_github" />
   </picture>
 </a>
-<a href="https://github-stats-extended.vercel.app/api/top-langs?username=itzmrazotyalin&layout=compact&langs_count=8&card_width=320">
+<a href="https://github-stats-extended.vercel.app/api/top-langs?username=itzmrazotyalin&layout=compact&langs_count=8&card_width=300">
   <picture>
     <source
       srcset="https://github-stats-extended.vercel.app/api/top-langs?username=itzmrazotyalin&layout=compact&langs_count=8&card_width=320&theme=dark_github"
