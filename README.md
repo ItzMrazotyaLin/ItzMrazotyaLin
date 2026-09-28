@@ -23,7 +23,7 @@
   </a>
 </p>
 <h6 align="center">p.s. изучать, чтобы не делать нейрослопные проги :)</h6>
-
+<div align="center">
 <a href="https://github-stats-extended.vercel.app/api?username=itzmrazotyalin&card_width=375">
   <picture>
     <source
@@ -42,3 +42,4 @@
     <img height="200" align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=itzmrazotyalin&layout=compact&langs_count=8&card_width=300&theme=light_github" />
   </picture>
 </a>
+</div>
