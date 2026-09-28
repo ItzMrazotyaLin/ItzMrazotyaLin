@@ -24,21 +24,21 @@
 </p>
 <h6 align="center">p.s. изучать, чтобы не делать нейрослопные проги :)</h6>
 
-<a href="https://github-stats-extended.vercel.app/api?username=itzmrazotyalin&card_width=300">
+<a href="https://github-stats-extended.vercel.app/api?username=itzmrazotyalin&card_width=375">
   <picture>
     <source
-      srcset="https://github-stats-extended.vercel.app/api?username=itzmrazotyalin&theme=dark_github"
+      srcset="https://github-stats-extended.vercel.app/api?username=itzmrazotyalin&theme=dark_github&card_width=375"
       media="(prefers-color-scheme: dark)"
     />
-    <img height="200" align="center" src="https://github-stats-extended.vercel.app/api?username=itzmrazotyalin&theme=light_github" />
+    <img height="200" align="center" src="https://github-stats-extended.vercel.app/api?username=itzmrazotyalin&theme=light_github&card_width=375" />
   </picture>
 </a>
 <a href="https://github-stats-extended.vercel.app/api/top-langs?username=itzmrazotyalin&layout=compact&langs_count=8&card_width=300">
   <picture>
     <source
-      srcset="https://github-stats-extended.vercel.app/api/top-langs?username=itzmrazotyalin&layout=compact&langs_count=8&card_width=320&theme=dark_github"
+      srcset="https://github-stats-extended.vercel.app/api/top-langs?username=itzmrazotyalin&layout=compact&langs_count=8&card_width=300&theme=dark_github"
       media="(prefers-color-scheme: dark)"
     />
-    <img height="200" align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=itzmrazotyalin&layout=compact&langs_count=8&card_width=320&theme=light_github" />
+    <img height="200" align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=itzmrazotyalin&layout=compact&langs_count=8&card_width=300&theme=light_github" />
   </picture>
 </a>
