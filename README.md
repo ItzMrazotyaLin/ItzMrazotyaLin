@@ -1,45 +1,21 @@
-![Banner](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&section=header&reversal=false&text=itzmr&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&desc=Hello%21&descSize=20&descAlign=50&descAlignY=60)
-
 <div align="center">
-  <h1>Привет! Я itzmr - человек, который любит написать что-нибудь прикольное и полезное. </h1>
-</div>
 
-<p align=center>
-  <a href="#" align="center">
-    <img src="https://skillicons.dev/icons?i=windows" />
-  </a>
-  <a href="#" align="center">
-    <img src="https://skillicons.dev/icons?i=arch" />
-  </a>
-</p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Hi, I&#x27;m itzmr"></picture>
 
-<div align="center">
-  <h1>В будущем хочу изучать:</h1>
-</div>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg"><img src="assets/about-light.svg" width="100%" alt="About me"></picture>
 
-<p align="center">
-  <a href="https://skillicons.dev" align="center">
-    <img src="https://skillicons.dev/icons?i=powershell,react,electron,py,java,cs,kotlin" />
-  </a>
-</p>
-<h6 align="center">p.s. изучать, чтобы не делать нейрослопные проги :)</h6>
-<div align="center">
-<a href="https://github-stats-extended.vercel.app/api?username=itzmrazotyalin&card_width=375">
-  <picture>
-    <source
-      srcset="https://github-stats-extended.vercel.app/api?username=itzmrazotyalin&theme=dark_github&card_width=375"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img height="200" align="center" src="https://github-stats-extended.vercel.app/api?username=itzmrazotyalin&theme=light_github&card_width=375" />
-  </picture>
-</a>
-<a href="https://github-stats-extended.vercel.app/api/top-langs?username=itzmrazotyalin&layout=compact&langs_count=8&card_width=300">
-  <picture>
-    <source
-      srcset="https://github-stats-extended.vercel.app/api/top-langs?username=itzmrazotyalin&layout=compact&langs_count=8&card_width=300&theme=dark_github"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img height="200" align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=itzmrazotyalin&layout=compact&langs_count=8&card_width=300&theme=light_github" />
-  </picture>
-</a>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
+
+<a href="https://github.com/ItzMrazotyaLin/Moderatio"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-moderatio-dark.svg"><img src="assets/project-moderatio-light.svg" width="49%" alt="Moderatio"></picture></a>&nbsp;<a href="https://github.com/ItzMrazotyaLin/Restartify"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-restartify-dark.svg"><img src="assets/project-restartify-light.svg" width="49%" alt="Restartify"></picture></a>
+
+<a href="https://github.com/ItzMrazotyaLin/clearifyos-installer"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-clearifyos-installer-dark.svg"><img src="assets/project-clearifyos-installer-light.svg" width="49%" alt="clearifyos-installer"></picture></a>&nbsp;<a href="https://github.com/ItzMrazotyaLin/AndroWallp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-androwallp-dark.svg"><img src="assets/project-androwallp-light.svg" width="49%" alt="AndroWallp"></picture></a>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>
+
+<a href="https://itzmrazotyalin.github.io"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-1-dark.svg"><img src="assets/button-1-light.svg" width="auto" alt="My website"></picture></a>&nbsp;&nbsp;<a href="https://github.com/ItzMrazotyaLin?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-2-dark.svg"><img src="assets/button-2-light.svg" width="auto" alt="All repositories"></picture></a>
+
+<a href="https://metawka.github.io/expressive-profile/?from=ItzMrazotyaLin"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/credit-dark.svg"><img src="assets/credit-light.svg" width="auto" alt="Made with Expressive Profile"></picture></a>
+
 </div>
