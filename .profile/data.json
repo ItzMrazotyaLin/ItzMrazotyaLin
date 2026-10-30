@@ -1,10 +1,14 @@
 {
- "key": "ba26c5a2",
+ "key": "bd353be1",
  "stars": 0,
  "contributions": 115,
  "repos": 11,
  "followers": 2,
  "languages": [
+  [
+   "Java",
+   376306
+  ],
   [
    "C#",
    337178
@@ -12,10 +16,6 @@
   [
    "HTML",
    202648
-  ],
-  [
-   "Java",
-   199744
   ],
   [
    "Kotlin",
