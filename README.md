@@ -6,9 +6,9 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
-<a href="https://github.com/ItzMrazotyaLin/Moderatio"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-moderatio-dark.svg"><img src="assets/project-moderatio-light.svg" width="49%" alt="Moderatio"></picture></a>&nbsp;<a href="https://github.com/ItzMrazotyaLin/Restartify"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-restartify-dark.svg"><img src="assets/project-restartify-light.svg" width="49%" alt="Restartify"></picture></a>
+<a href="https://github.com/ItzMrazotyaLin/Restartify"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-restartify-dark.svg"><img src="assets/project-restartify-light.svg" width="49%" alt="Restartify"></picture></a>&nbsp;<a href="https://github.com/ItzMrazotyaLin/clearifyos-installer"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-clearifyos-installer-dark.svg"><img src="assets/project-clearifyos-installer-light.svg" width="49%" alt="clearifyos-installer"></picture></a>
 
-<a href="https://github.com/ItzMrazotyaLin/clearifyos-installer"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-clearifyos-installer-dark.svg"><img src="assets/project-clearifyos-installer-light.svg" width="49%" alt="clearifyos-installer"></picture></a>&nbsp;<a href="https://github.com/ItzMrazotyaLin/AndroWallp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-androwallp-dark.svg"><img src="assets/project-androwallp-light.svg" width="49%" alt="AndroWallp"></picture></a>
+<a href="https://github.com/ItzMrazotyaLin/AndroWallp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-androwallp-dark.svg"><img src="assets/project-androwallp-light.svg" width="49%" alt="AndroWallp"></picture></a>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 
