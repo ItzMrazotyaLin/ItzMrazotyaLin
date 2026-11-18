@@ -1,10 +1,14 @@
 {
- "key": "1f6c077c",
+ "key": "74079c61",
  "stars": 0,
- "contributions": 122,
- "repos": 10,
+ "contributions": 123,
+ "repos": 11,
  "followers": 2,
  "languages": [
+  [
+   "Java",
+   1247767
+  ],
   [
    "C#",
    360870
@@ -26,12 +30,8 @@
    116021
   ],
   [
-   "Java",
-   66525
-  ],
-  [
-   "HLSL",
-   19973
+   "GLSL",
+   23082
   ]
  ],
  "days": [
@@ -126,7 +126,7 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 1,
     "day": 18,
     "today": true
    },
@@ -136,7 +136,7 @@
   ]
  ],
  "streak": {
-  "current": 0,
+  "current": 1,
   "longest": 7
  },
  "pins": [
@@ -169,6 +169,15 @@
   }
  ],
  "all": [
+  {
+   "name": "nebulavisuals",
+   "url": "https://github.com/ItzMrazotyaLin/nebulavisuals",
+   "text": "Визуальный мод на Minecraft",
+   "fork": false,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
   {
    "name": "Restartify",
    "url": "https://github.com/ItzMrazotyaLin/Restartify",
